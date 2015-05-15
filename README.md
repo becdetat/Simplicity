@@ -7,6 +7,6 @@ Then the FP plonkers with their F# came :boom: and with them the pattern matchin
 
 And now we's in the C# place *that's us* well _we_ get the pattern matching. We's ready. Take us home.
 
-
+[Blog post about this](http://bendetat.com/simplicity-pattern-matching-in-c-sharp.html)
 
 
