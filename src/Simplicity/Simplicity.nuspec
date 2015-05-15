@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Simplicity</id>
+    <version>$version$</version>
+    <title>Simplicity</title>
+    <authors>Ben Scott</authors>
+    <owners>Ben Scott</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/bendetat/Simplicity</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A pattern matching library in C#</description>
+    <summary></summary>
+    <releaseNotes>First version!</releaseNotes>
+    <tags>pattern matching functional programming</tags>
+  </metadata>
+</package>
