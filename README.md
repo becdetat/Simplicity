@@ -10,3 +10,8 @@ And now we's in the C# place *that's us* well _we_ get the pattern matching. We'
 [Blog post about this](http://bendetat.com/simplicity-pattern-matching-in-c-sharp.html)
 
 See also [SimplicityJS](https://github.com/bendetat/SimplicityJS) - a JavaScript port of Simplicity.
+
+
+## Versions
+
+- 1.0.0 - first version
